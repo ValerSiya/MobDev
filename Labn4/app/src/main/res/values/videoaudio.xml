@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="films">
+        <item>Alien</item>
+        <item>Gift</item>
+        <item>Hedgehog</item>
+        <item>Lily and Snowman</item>
+        <item>Simons Cat</item>
+    </string-array>
+    <string-array name="audio">
+        <item>Chris Norman,Suzi Quatro - Stumblin</item>
+        <item>Roxette - How do you do</item>
+        <item>Savage - Only you</item>
+        <item>Radiorama - Yeti</item>
+        <item>Afric Simone - Hafanana</item>
+    </string-array>
+</resources>
